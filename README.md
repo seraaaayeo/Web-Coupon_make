@@ -1,10 +1,10 @@
-# make coupon number : backend functions
+# make coupon : backend functions
 
-## how to make coupon_number
- * not duplicated number
+### our purpose
+ * make not duplicated number
  * not collide between new-made-number and already-saved-number(in DB) 
 
- ## Stack
+ ### Stack
  * JavaScript ES6
  * firebase
 
