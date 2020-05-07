@@ -14,6 +14,8 @@
  * top node : coupon number
  * child node : coupon name(ex.birthday : for celebrating customer's birthday), expire date
 
+***
+
 ## Getting Started
 
 ### Pre-requisties
@@ -33,6 +35,8 @@ We will use this module to return microtime
 npm install buffer-crc32
 ```
 We will use this crc32 encoder
+
+***
 
 ## Docs
 * seed.js : those seed info(contents, expire, uid) is used to make coupon number
