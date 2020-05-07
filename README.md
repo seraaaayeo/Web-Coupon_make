@@ -1,5 +1,6 @@
-## Make coupon : backend functions
+# Make coupon : backend functions
 <img src="https://user-images.githubusercontent.com/53554014/81337293-c083e000-90e5-11ea-890f-81846c376ac4.png" width="40%" height="40%" title="coupon" alt="1"></img><img src="https://user-images.githubusercontent.com/53554014/81337543-1eb0c300-90e6-11ea-8ec3-2b84db42ee13.jpg" width="55%" height="55%" title="db" alt="1"></img>
+
 
 ### Our purpose
  * make not duplicated number
@@ -33,7 +34,7 @@ npm install buffer-crc32
 ```
 We will use this crc32 encoder
 
-### Docs
+## Docs
 * seed.js : those seed info(contents, expire, uid) is used to make coupon number
 
 * getTime.js : get current time to use as an another seed
