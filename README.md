@@ -3,7 +3,7 @@
 
 
 ### Our purpose
- * make not duplicated number
+ * make not duplicated random number
  * not collide between new-made-number and already-saved-number(in DB) 
 
 ### Stack
